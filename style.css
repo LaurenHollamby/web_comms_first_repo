@@ -1,2 +1,12 @@
-style.css
+body{
+    background-color: aquamarine;
+    color:darkslategrey;
+}
 
+#first{
+    color: blueviolet;
+}
+
+.business{
+    color: coral; 
+}
